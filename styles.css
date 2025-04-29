@@ -1,0 +1,15 @@
+body {
+    background-color:#a2d39c;
+}
+h1 {
+    color:#2e402c
+}
+table,
+td,
+th {
+    border: 1px solid gray;
+}
+
+td {
+    text-align:center
+}
